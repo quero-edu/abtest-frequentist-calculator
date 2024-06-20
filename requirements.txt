@@ -8,5 +8,5 @@ notebook
 pytest
 pytest-runner
 black
-streamlit==1.13.0
+streamlit==1.30.0
 plotly
